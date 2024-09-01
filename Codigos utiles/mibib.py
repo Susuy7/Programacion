@@ -15,4 +15,4 @@ def salir():
 SEGUNDOS = 1
 
 if __name__ == '__main__':
-    print(__name__)
+    limpiar()

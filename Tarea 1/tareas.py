@@ -1,6 +1,6 @@
 #Elias Gonzalez Roman
 
-
+    
 def lectura_datos():
     archivo = open("elección.txt", "r", encoding='utf-8')
     coalicion = []
